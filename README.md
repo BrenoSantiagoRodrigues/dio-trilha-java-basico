@@ -1,18 +1,48 @@
-## Getting Started
+Tudo bem, sem problemas. Aqui está uma sugestão de README.md completa para o seu projeto.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este texto usa a formatação Markdown, que é o padrão usado em plataformas como o GitHub. Você pode copiar e colar o conteúdo abaixo em um novo arquivo chamado README.md na pasta do seu projeto.
 
-## Folder Structure
+ContaBanco - Simulação de Conta Bancária via Terminal
+Este projeto é um desafio de código proposto no curso de Java da Digital Innovation One (DIO), focado em exercitar os conceitos básicos da sintaxe da linguagem.
 
-The workspace contains two folders by default, where:
+📝 Descrição do Projeto
+O programa ContaTerminal é uma aplicação simples executada via terminal que simula a abertura de uma conta bancária. Ele solicita ao usuário que insira dados como número da conta, agência, nome do cliente e saldo inicial. Ao final, exibe uma mensagem de confirmação com todas as informações fornecidas.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+✨ Funcionalidades
+Recebe dados do usuário de forma interativa pelo terminal.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Armazena os dados em variáveis com tipos primitivos adequados.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Concatena e exibe uma mensagem final formatada com os dados do cliente.
 
-## Dependency Management
+💻 Tecnologias Utilizadas
+Java: O projeto foi desenvolvido inteiramente em Java, utilizando recursos básicos da linguagem e a biblioteca padrão.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Classe Scanner: Para a entrada de dados do usuário via console.
+
+🚀 Como Executar o Projeto
+Para executar este projeto, você precisará ter o JDK (Java Development Kit) instalado em sua máquina.
+
+Clone o repositório (ou simplesmente baixe o arquivo ContaTerminal.java):
+
+Bash
+
+git clone https://github.com/seu-usuario/seu-repositorio.git
+Navegue até o diretório onde o arquivo se encontra:
+
+Bash
+
+cd caminho/para/o/projeto
+Compile o arquivo .java:
+Este comando irá gerar o arquivo ContaTerminal.class.
+
+Bash
+
+javac ContaTerminal.java
+Execute o programa:
+Após a compilação, execute o programa com o seguinte comando.
+
+Bash
+
+java ContaTerminal
+O programa começará a solicitar as informações no terminal.
