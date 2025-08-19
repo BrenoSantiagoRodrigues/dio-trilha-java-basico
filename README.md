@@ -1,10 +1,3 @@
-Tudo bem, sem problemas. Aqui está uma sugestão de README.md completa para o seu projeto.
-
-Este texto usa a formatação Markdown, que é o padrão usado em plataformas como o GitHub. Você pode copiar e colar o conteúdo abaixo em um novo arquivo chamado README.md na pasta do seu projeto.
-
-ContaBanco - Simulação de Conta Bancária via Terminal
-Este projeto é um desafio de código proposto no curso de Java da Digital Innovation One (DIO), focado em exercitar os conceitos básicos da sintaxe da linguagem.
-
 📝 Descrição do Projeto
 O programa ContaTerminal é uma aplicação simples executada via terminal que simula a abertura de uma conta bancária. Ele solicita ao usuário que insira dados como número da conta, agência, nome do cliente e saldo inicial. Ao final, exibe uma mensagem de confirmação com todas as informações fornecidas.
 
